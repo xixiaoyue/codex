@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "node-dev ./server.js"
+    "server": "node-dev ./server.js"
   },
   "author": "cc",
   "license": "ISC",
